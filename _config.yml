@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  alexdebeer
 
 # Build settings
-theme: academic
+theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 
