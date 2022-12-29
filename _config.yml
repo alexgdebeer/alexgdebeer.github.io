@@ -21,16 +21,20 @@
 title: Alex de Beer
 email: adeb970@aucklanduni.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  Test description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  alexdebeer
+
+curriculum: 
+  name: cv
+  url: "assets/cv.pdf"
+github_username: alexdebeer
+linkedin_username: alex-debeer
 
 # Build settings
 remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
