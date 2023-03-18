@@ -1,27 +1,27 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+
 ---
 @charset "utf-8";
 
-// @import url('https://fonts.googleapis.com/css?family=Open+Sans:800|PT+Serif');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
 
 // Our variables
 // $base-font-family: "Open Sans", sans-serif;
-$base-font-family: 'Montserrat', sans-serif;
-$base-font-size:   20px;
-$base-font-weight: 400;
+$base-font-family: 'Open Sans', sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.5;
 
-$alt-font-family: 'Montserrat', sans-serif;
-$alt-font-weight: 600;
+$alt-font-family: 'Open Sans', sans-serif;
+$alt-font-weight: 400;
 
 $spacing-unit:     50px;
 
 $text-color:       #111 !default;
 $background-color: #ffffff !default;
-$brand-color:      #c40003 !default;
+$brand-color:      #B30000 !default;
 
 $grey-color:       #3F3F3F;
 $grey-color-light: lighten($grey-color, 50%);
@@ -29,10 +29,10 @@ $grey-color-lighter: lighten($grey-color, 70%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    700px;
+$content-width:    800px;
 
 $on-palm:          500px;
-$on-laptop:        700px;
+$on-laptop:        750px;
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
@@ -45,3 +45,15 @@ $on-laptop:        700px;
 
 // Import partials from the `minima` theme.
 @import "academic";
+
+h1, h2, h3 { margin-top: 0px; margin-bottom: 15px; }
+p { margin-top: 0px; margin-bottom: 15px; font-size: 1.05rem; line-height: 1.5rem }
+
+.wrapper { max-width: -webkit-calc(750px - (50px * 2)); max-width: calc(750px - (50px * 2)) }
+@media screen and (max-width: 750px) { .wrapper { max-width: -webkit-calc(750px - (50px)); max-width: calc(750px - (50px)) } }
+
+.site-footer { font-size: 1rem; line-height: 1.6rem; border-top: 1px solid #FFFFFF; color: #FFFFFF; }
+.site-footer .bottom { color: #bfbfbf; width: 100%; clear: both; float: none; text-align: center; margin-top: 0px; margin-bottom: 50px; }
+
+.contact-list { margin-top: 20px; margin-bottom: -10px; }
+.about-col-1 .user-picture { margin-bottom: 0px; }
