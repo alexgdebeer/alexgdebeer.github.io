@@ -29,6 +29,7 @@ curriculum:
   url: "assets/cv.pdf"
 github_username: alexgdebeer
 linkedin_username: alexgdebeer
+googlescholar_url: https://scholar.google.com/citations?user=BRtTbsEAAAAJ&hl=en
 
 # Build settings
 remote_theme: gaalcaras/academic

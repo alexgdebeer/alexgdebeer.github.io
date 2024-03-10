@@ -4,6 +4,12 @@
 </span>
 <ul class="contact-list {{ include.class }}">
 
+  {% if site.googlescholar_url %}
+  <li>
+    {% include _icons/googlescholar.html link=site.googlescholar_url %}
+  </li>
+  {% endif %}
+
   {% if site.github_username %}
   <li>
     {% include _icons/github.html username=site.github_username %}
