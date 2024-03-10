@@ -20,7 +20,7 @@ title: Research
 ## Theses
 
   - **Ensemble Methods for Geothermal Inverse Problems** \
-    Master's Thesis, 2024
+    Master's Thesis (2024)
 
   - **[Expansion of Electricity Distribution Networks Under Uncertainty](https://alexgdebeer.github.io/assets/theses/hons22.pdf)** \
-    Honours Report, 2022
+    Honours Report (2022)
