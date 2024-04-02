@@ -1,7 +1,6 @@
 ---
 layout: about
-title: Kia ora
-invisible: true
+title: Home
 ---
 
 # Kia ora,

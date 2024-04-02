@@ -7,24 +7,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 // Our variables
-$base-font-family: 'Open Sans', sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
+$base-font-family: sans-serif;
+$base-font-size:   14px;
+$base-font-weight: 500;
 $small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.5;
 
-$alt-font-family: 'Libre Baskerville', sans-serif;
+$alt-font-family: sans-serif;
 $alt-font-weight: 400;
 
 $spacing-unit:     50px;
 
-$text-color:       RGB(38, 25, 17) !default;
-$background-color: RGB(249, 246, 239) !default;
+$text-color:       rgb(60, 60, 60) !default;
+$background-color: #FFFFFF !default;
 $brand-color:      #B30000 !default;
 
-$grey-color:       #3F3F3F;
-$grey-color-light: lighten($grey-color, 50%);
-$grey-color-lighter: lighten($grey-color, 70%);
+$grey-color:       $text-color;
+$grey-color-light: lighten($grey-color, 25%);
+$grey-color-lighter: lighten($grey-color, 50%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area

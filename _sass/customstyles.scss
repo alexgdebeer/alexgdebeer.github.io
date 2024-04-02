@@ -1,14 +1,26 @@
-h1, h2, h3 { margin-top: 0px; margin-bottom: 10px; }
-p { margin-top: 0px; margin-bottom: 10px; font-size: 1.05rem; line-height: 1.5rem }
+h1, h2, h3 { margin-top: 0px; margin-bottom: 15px;}
+p { margin-top: 0px; margin-bottom: 15px; font-size: 12pt; line-height: 18pt }
 
-@media screen and (max-width: 850px) { 
-    .wrapper { max-width: -webkit-calc(850px - (50px)); max-width: calc(850px - (50px)) } 
+@media screen and (max-width: 800px) { 
+    .wrapper { max-width: -webkit-calc(800px - (50px)); max-width: calc(800px - (50px)) } 
     .site-header {min-height: 60px;}
 }
 
-.wrapper { max-width: -webkit-calc(850px - (50px * 2)); max-width: calc(850px - (50px * 2)) }
+.wrapper { max-width: -webkit-calc(800px - (50px * 2)); max-width: calc(800px - (50px * 2)) }
 .site-footer { font-size: 1rem; line-height: 1.6rem; border-top: 0px; }
-.site-footer .bottom { color: #bfbfbf; width: 100%; clear: both; float: none; text-align: center; margin-top: 50px; margin-bottom: 50px; }
+.site-footer a { color: $grey-color-lighter; }
+.site-footer .bottom { color: $grey-color-lighter; width: 100%; clear: both; float: none; text-align: center; margin-top: 50px; margin-bottom: 50px; }
+.site-footer .bottom a { color: $grey-color-lighter; }
 
 .contact-list { margin-top: 20px; margin-bottom: -10px; }
+
 .about-col-1 .user-picture { margin-bottom: 0px; }
+
+.site-header { border-top: 0px; border-bottom: 0px; position: relative; }
+
+.site-nav { float: left; line-height: 40pt; z-index: 1000; }
+.site-nav .nav-list li { display: inline-block; height: 20pt; font-size: 12pt }
+.site-nav .nav-list li .page-link { color: $grey-color-light; }
+.site-nav .nav-list li .page-link:hover { text-decoration: underline; }
+.site-nav .nav-list li:not(:first-child) { margin-left: 8pt; }
+.site-nav .nav-list li:hover { border-bottom: 0px; }

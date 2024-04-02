@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-## The University of Auckland
+### The University of Auckland
 
 Lab tutor for the following courses:
 
