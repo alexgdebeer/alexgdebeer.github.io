@@ -20,15 +20,15 @@
 
 title: Alex de Beer
 email: adeb970@aucklanduni.ac.nz
-description: >- # this means to ignore newlines until "baseurl:"
+description: this is a test. # >- this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 curriculum: 
   name: cv
   url: "assets/cv.pdf"
-github_username: alexgdebeer
-linkedin_username: alexgdebeer
+github_url: https://github.com/alexgdebeer
+linkedin_url: https://linkedin.com/in/alexgdebeer
 googlescholar_url: https://scholar.google.com/citations?user=BRtTbsEAAAAJ&hl=en
 
 # Build settings

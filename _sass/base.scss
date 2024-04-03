@@ -1,0 +1,105 @@
+/**
+ * Reset some basic elements
+ */
+ body, h1, h2, h3, h4, h5, h6,
+ p, blockquote, pre, hr,
+ dl, dd, ol, ul, figure {
+  margin-top: 0px; 
+  margin-bottom: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0;
+ }
+
+
+
+h1 { font-size: 30pt; font-weight: 400; margin-bottom: 20px}
+p { font-size: $base-font-size; line-height: 18pt }
+
+.site-footer { font-size: 1rem; line-height: 1.6rem; border-top: 0px; }
+.site-footer .bottom { color: $grey-color-lighter; width: 100%; clear: both; float: none; text-align: center; margin-top: 50px; margin-bottom: 50px; }
+.site-footer .bottom a { color: $grey-color-lighter; &:hover {color: $grey-color-light; text-decoration: none; }}
+
+ /**
+  * Basic styling
+  */
+ body {
+   font-family: $base-font-family;
+   @include size(p);
+   font-weight: $base-font-weight;
+   color: $text-color;
+   background-color: $background-color;
+ }
+ 
+ /**
+  * Lists
+  */
+ ul, ol {
+   margin-left: 0.5 * $spacing-unit;
+ }
+ 
+ li {
+   > ul,
+   > ol {
+     margin-bottom: 0;
+   }
+ }
+ 
+ /**
+  * Links
+  */
+ a {
+  
+   color: $brand-color;
+   text-decoration: none;
+ 
+   &:hover {
+     color: $text-color;
+     text-decoration: none;
+   }
+
+ }
+ 
+ 
+ 
+ /**
+  * Clearfix
+  */
+ %clearfix:after {
+   content: "";
+   display: table;
+   clear: both;
+ }
+ /**
+  * Wrapper
+  */
+ .wrapper {
+   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+   margin-right: auto;
+   margin-left: auto;
+   padding-right: $spacing-unit;
+   padding-left: $spacing-unit;
+   @extend %clearfix;
+ 
+   @include media-query($on-laptop) {
+     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+     padding-right: $spacing-unit;
+     padding-left: $spacing-unit;
+   }
+ }
+ 
+ 
+ /**
+  * Icons
+  */
+ .icon > svg {
+   display: inline-block;
+   vertical-align: middle;
+ 
+   circle,
+   path:last-of-type {
+     fill: $grey-color;
+   }
+ }

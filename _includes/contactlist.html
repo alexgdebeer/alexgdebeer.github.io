@@ -1,8 +1,16 @@
-{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
-<span class="contact-list-title">
-  {{ site.data.academic_i18n.links[plang] }}
-</span>
 <ul class="contact-list {{ include.class }}">
+
+  {% if site.email %}
+  <li>
+    {% include _icons/email.html username=site.email %}
+  </li>
+  {% endif %}
+
+  {% if site.curriculum.url %}
+  <li>
+    {% include _icons/file.html curriculum=site.curriculum %}
+  </li>
+  {% endif %}
 
   {% if site.googlescholar_url %}
   <li>
@@ -10,27 +18,15 @@
   </li>
   {% endif %}
 
-  {% if site.github_username %}
+  {% if site.github_url %}
   <li>
-    {% include _icons/github.html username=site.github_username %}
+    {% include _icons/github.html link=site.github_url %}
   </li>
   {% endif %}
 
-  {% if site.twitter_username %}
+  {% if site.linkedin_url %}
   <li>
-    {% include _icons/twitter.html username=site.twitter_username %}
-  </li>
-  {% endif %}
-
-  {% if site.linkedin_username %}
-  <li>
-    {% include _icons/linkedin.html username=site.linkedin_username %}
-  </li>
-  {% endif %}
-
-  {% if site.keybase_username %}
-  <li>
-    {% include _icons/keybase.html username=site.keybase_username %}
+    {% include _icons/linkedin.html link=site.linkedin_url %}
   </li>
   {% endif %}
 

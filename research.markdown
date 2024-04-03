@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-### Talks
+## Talks
 
 **[Ensemble Methods for Large-Scale Nonlinear Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/uq24.pdf)** \
 SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024)
@@ -19,7 +19,7 @@ SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024)
 
 <br>
 
-### Theses
+## Theses
 
 **Ensemble Methods for Geothermal Inverse Problems** \
 Master's Thesis (2024)
