@@ -7,4 +7,15 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
+  <title>{{ page.title | append: " | " | default:"" }}{% include _i18n/i18n.html value=site.title %}</title>
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  {% assign pagename = page.path | split:"." | first %}
+
+  {% if page.layout == "post" %}
+    {% assign i18n_posts = site.posts | where_exp:"p","p.path contains pagename" %}
+  {% else %}
+    {% assign i18n_posts = site.pages | where_exp:"p","p.path contains pagename" %}
+  {% endif %}
+
 </head>
