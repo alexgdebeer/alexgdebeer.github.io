@@ -1,4 +1,6 @@
-{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
-<a href="{% include _i18n/i18n.html value=include.curriculum.url %}" title="Curriculum Vitae"><span class="icon icon--cv">{% include _icons/file.svg %}</span>
+<a target="_blank" href="{% include _i18n/i18n.html value=include.curriculum.url %}" title="Curriculum Vitae">
+  <span class="icon icon--cv">
+    {% include _icons/file.svg %}
+  </span>
   <span class="username">CV</span>
 </a>

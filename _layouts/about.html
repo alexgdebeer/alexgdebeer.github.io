@@ -3,20 +3,37 @@ layout: default
 ---
 
 <div class="about-col-wrapper">
+
   <div class="about-col about-col-1">
 
-    {% if site.github_url %}
-    <img class="user-picture" src="https://github.com/alexgdebeer.png" alt="{{ site.author }}">
-    {% endif %}
+    <img class="user-picture" src="https://github.com/alexgdebeer.png">
 
-    {% include contactlist.html %}
+    <h3>Alex de Beer</h3>
+
+    <ul>
+      <li>
+        {% include _icons/email.html %}
+      </li>
+      <li>
+        {% include _icons/file.html curriculum=site.curriculum %}
+      </li>
+      <li>
+        {% include _icons/googlescholar.html link=site.googlescholar_url %}
+      </li>
+      <li>
+        {% include _icons/github.html link=site.github_url %}
+      </li>
+      <li>
+        {% include _icons/linkedin.html link=site.linkedin_url %}
+      </li>
+    </ul>
 
   </div>
-  <article class="about-col about-col-2" itemscope itemtype="http://schema.org/BlogPosting">
 
+  <article class="about-col about-col-2" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="post-content" itemprop="articleBody">
       {{ content }}
     </div>
-
   </article>
+
 </div>
