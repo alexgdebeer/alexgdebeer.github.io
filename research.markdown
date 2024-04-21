@@ -21,7 +21,7 @@ SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024)
 
 ## Theses
 
-**Ensemble Methods for Geothermal Inverse Problems** \
+**[Ensemble Methods for Geothermal Inverse Problems](https://hdl.handle.net/2292/68150)** \
 Master's Thesis (2024)
 
 **[Expansion of Electricity Distribution Networks Under Uncertainty](https://alexgdebeer.github.io/assets/theses/hons22.pdf)** \
