@@ -11,10 +11,11 @@ linkedin_url: https://linkedin.com/in/alexgdebeer
 googlescholar_url: https://scholar.google.com/citations?user=BRtTbsEAAAAJ&hl=en
 
 # Build settings
-# remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 #   - jekyll-seo-tag
+kramdown:
+  math_engine: katex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
