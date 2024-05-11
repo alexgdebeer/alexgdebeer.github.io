@@ -12,13 +12,13 @@ layout: default
 
     <p>
       <a href="mailto:{{site.email}}">Email</a>, 
-      <a target="_blank" href="{% include _i18n/i18n.html value=include.curriculum.url %}">CV</a>, 
-      <a target="_blank" href="{{ include.link }}"><span class="username">Scholar</span></a>,
+      <a target="_blank" href="{{ site.curriculum.url }}">CV</a>, 
+      <a target="_blank" href="{{ site.googlescholar_url }}"><span class="username">Scholar</span></a>,
     </p> 
 
     <p>
-      <a target="_blank" href="{{ include.link }}" title="Github"><span class="username">GitHub</span></a>, 
-      <a target="_blank" href="{{ include.link }}" title="Linkedin"><span class="username">LinkedIn</span></a>
+      <a target="_blank" href="{{ site.github_url }}" title="Github"><span class="username">GitHub</span></a>, 
+      <a target="_blank" href="{{ site.linkedin_url }}" title="Linkedin"><span class="username">LinkedIn</span></a>
     </p>
 
   </div>
