@@ -114,34 +114,33 @@ a {
 
 .about-col-1 {
 
-  padding-right: $spacing-unit / 2;
-  width: -webkit-calc(35% - (#{$spacing-unit} / 4));
-  width:         calc(35% - (#{$spacing-unit} / 4));
+  border: 2pt black;
 
-  ul {
-    font-size: 14px;
-    list-style: none;
-    margin: 0;
-    li {
-      margin-bottom: 8px
-    }
-  }
+  text-align: center;
+  padding-right: $spacing-unit;
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
 
   .user-picture {
     border-radius: 50%;
-    margin-bottom: 15px;
-    max-width: calc(85%);
+    margin-bottom: 10px;
+    max-width: calc(100%);
   }
 
   h2 {
-    margin-bottom: 12px;
+    margin-bottom: 4px;
+  }
+
+  p {
+    font-size: 0.85 * $base-font-size;
+    margin: 0;
   }
 
 }
 
 .about-col-2 {
-  width: -webkit-calc(65% - (#{$spacing-unit} / 4));
-  width:         calc(65% - (#{$spacing-unit} / 4));
+  width: -webkit-calc(70% - (#{$spacing-unit} / 2));
+  width:         calc(70% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-palm) {

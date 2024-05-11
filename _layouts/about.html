@@ -10,23 +10,16 @@ layout: default
 
     <h2>Alex de Beer</h2>
 
-    <ul>
-      <li>
-        {% include _icons/email.html %}
-      </li>
-      <li>
-        {% include _icons/file.html curriculum=site.curriculum %}
-      </li>
-      <li>
-        {% include _icons/googlescholar.html link=site.googlescholar_url %}
-      </li>
-      <li>
-        {% include _icons/github.html link=site.github_url %}
-      </li>
-      <li>
-        {% include _icons/linkedin.html link=site.linkedin_url %}
-      </li>
-    </ul>
+    <p>
+      <a href="mailto:{{site.email}}">Email</a>, 
+      <a target="_blank" href="{% include _i18n/i18n.html value=include.curriculum.url %}">CV</a>, 
+      <a target="_blank" href="{{ include.link }}"><span class="username">Scholar</span></a>,
+    </p> 
+
+    <p>
+      <a target="_blank" href="{{ include.link }}" title="Github"><span class="username">GitHub</span></a>, 
+      <a target="_blank" href="{{ include.link }}" title="Linkedin"><span class="username">LinkedIn</span></a>
+    </p>
 
   </div>
 
