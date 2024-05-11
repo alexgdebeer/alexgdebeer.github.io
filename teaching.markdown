@@ -7,7 +7,7 @@ title: Teaching
 
 Lab tutor for the following courses:
 
-  - [EngSci 263](https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/233/): Computational Techniques and Computer Systems (2024)
+  - [EngSci 233](https://courseoutline.auckland.ac.nz/dco/course/ENGSCI/233/): Computational Techniques and Computer Systems (2024)
 
   - [Geotherm 620](https://courseoutline.auckland.ac.nz/dco/course/GEOTHERM/620/): Geothermal Engineering (2023)
 
