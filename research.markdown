@@ -12,7 +12,7 @@ title: Research
 ## Preprints
 
 ***A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson (2024)*. [Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401). \
-[[arXiv](https://arxiv.org/abs/2407.15401)], [[code](https://github.com/alexgdebeer/GeothermalDSI)]
+[[arXiv](https://arxiv.org/abs/2407.15401)] [[code](https://github.com/alexgdebeer/GeothermalDSI)]
 
 <br>
 
