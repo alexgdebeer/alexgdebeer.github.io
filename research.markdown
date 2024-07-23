@@ -3,6 +3,12 @@ layout: page
 title: Research
 ---
 
+## Preprints
+
+[Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401) \
+**A de Beer**, A Power, D Wong, K Dekkers, M Gravatt, JP O'Sullivan, MJ O'Sullivan, OJ Maclaren, R Nicholson \
+[arXiv](https://arxiv.org/abs/2407.15401), [code](https://github.com/alexgdebeer/GeothermalDSI)
+
 ## Talks
 
 [Ensemble Methods for Large-Scale Nonlinear Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/uq24.pdf) \
