@@ -3,11 +3,20 @@ layout: page
 title: Research
 ---
 
+## Working Papers
+
+Ensemble Kalman Inversion for Geothermal Reservoir Modelling \
+**A&nbsp;de&nbsp;Beer**, M&nbsp;Gravatt, R&nbsp;Nicholson, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren
+
+<br>
+
 ## Preprints
 
 [Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401) \
-**A de Beer**, A Power, D Wong, K Dekkers, M Gravatt, JP O'Sullivan, MJ O'Sullivan, OJ Maclaren, R Nicholson \
+**A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson \
 [arXiv](https://arxiv.org/abs/2407.15401), [code](https://github.com/alexgdebeer/GeothermalDSI)
+
+<br>
 
 ## Talks
 
