@@ -84,6 +84,7 @@ a {
     font-size: 0.8 * $base-font-size; 
     margin-right: 10pt;
     color: $grey-color-light;
+    font-variant: small-caps;
     &:hover {
         color: $grey-color;
         text-decoration: none;
