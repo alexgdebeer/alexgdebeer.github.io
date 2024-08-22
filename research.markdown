@@ -5,13 +5,13 @@ title: Research
 
 ## Working Papers
 
-***A&nbsp;de&nbsp;Beer**, M&nbsp;Gravatt, R&nbsp;Nicholson, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren*. Ensemble Kalman Inversion for Geothermal Reservoir Modelling.
+***A&nbsp;de&nbsp;Beer**, EK&nbsp;Bjarkason, M&nbsp;Gravatt, R&nbsp;Nicholson, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren*. Ensemble Kalman Inversion for Geothermal Reservoir Modelling.
 
 <br>
 
 ## Preprints
 
-***A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson (2024)*. [Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401). \
+***A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, EK&nbsp;Bjarkason, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson (2024)*. [Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401). \
 [[arXiv](https://arxiv.org/abs/2407.15401)] [[code](https://github.com/alexgdebeer/GeothermalDSI)]
 
 <br>
@@ -28,7 +28,7 @@ SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024)
 48th Workshop on Geothermal Reservoir Engineering, Stanford, CA (2023)
 
 [Using JuDGE for Distribution Network Planning](https://alexgdebeer.github.io/assets/talks/epoc22.pdf) \
-20th EPOC Winter Workshop, Auckland NZ (2022)
+20th EPOC Winter Workshop, Auckland, NZ (2022)
 
 <br>
 
