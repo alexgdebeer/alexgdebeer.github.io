@@ -5,21 +5,25 @@ title: Research
 
 ## *Working Papers*
 
-**A&nbsp;de&nbsp;Beer**, EK&nbsp;Bjarkason, M&nbsp;Gravatt, R&nbsp;Nicholson, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren. Ensemble Kalman Inversion for Geothermal Reservoir Modelling.
+Ensemble Kalman Inversion for Geothermal Reservoir Modelling \
+**A&nbsp;de&nbsp;Beer**, EK&nbsp;Bjarkason, M&nbsp;Gravatt, R&nbsp;Nicholson, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren
 
 <br>
 
 ## *Preprints*
 
-**A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, EK&nbsp;Bjarkason, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson. [Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401). \
-[[preprint](https://arxiv.org/abs/2407.15401), [code](https://github.com/alexgdebeer/GeothermalDSI)]
+[Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401) \
+**A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, EK&nbsp;Bjarkason, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson \
+[Preprint](https://arxiv.org/abs/2407.15401), [Code](https://github.com/alexgdebeer/GeothermalDSI)
+
 
 <br>
 
 ## *Talks*
 
 [Ensemble Methods for Large-Scale Nonlinear Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/uq24.pdf) \
-SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024)
+SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024) \
+Something else
 
 [Ensemble Methods for Geothermal Model Calibration](https://alexgdebeer.github.io/assets/talks/nzgw23.pdf) \
 45th New Zealand Geothermal Workshop, Auckland, NZ (2023)
