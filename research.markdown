@@ -3,14 +3,14 @@ layout: page
 title: Research
 ---
 
-## *Working Papers*
+## Working Papers
 
 Ensemble Kalman Inversion for Geothermal Reservoir Modelling \
 **A&nbsp;de&nbsp;Beer**, EK&nbsp;Bjarkason, M&nbsp;Gravatt, R&nbsp;Nicholson, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren
 
 <br>
 
-## *Preprints*
+## Preprints
 
 [Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401) \
 **A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, EK&nbsp;Bjarkason, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson \
@@ -19,7 +19,7 @@ Ensemble Kalman Inversion for Geothermal Reservoir Modelling \
 
 <br>
 
-## *Talks*
+## Talks
 
 [Ensemble Methods for Large-Scale Nonlinear Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/uq24.pdf) \
 SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024) 
@@ -35,7 +35,7 @@ SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024)
 
 <br>
 
-## *Theses*
+## Theses
 
 [Ensemble Methods for Geothermal Inverse Problems](https://hdl.handle.net/2292/68150) \
 Master's Thesis (2024)
