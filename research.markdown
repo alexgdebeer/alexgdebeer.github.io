@@ -16,8 +16,7 @@ title: Research
 <br>
 
 ## Talks
-
-[Ensemble Methods for Large-Scale Nonlinear Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/joint24.pdf) \
+[Ensemble Methods for Geophysical Inverse Problems and Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/joint24.pdf) \
 Joint Meeting of the NZMS, AustMS and AMS (2024) \
 SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024) 
 
