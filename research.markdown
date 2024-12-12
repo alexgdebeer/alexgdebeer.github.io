@@ -13,12 +13,12 @@ title: Research
 **A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, EK&nbsp;Bjarkason, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson \
 [Preprint](https://arxiv.org/abs/2407.15401), [Code](https://github.com/alexgdebeer/GeothermalDSI)
 
-
 <br>
 
 ## Talks
 
-[Ensemble Methods for Large-Scale Nonlinear Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/uq24.pdf) \
+[Ensemble Methods for Large-Scale Nonlinear Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/joint24.pdf) \
+Joint Meeting of the NZMS, AustMS and AMS (2024) \
 SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024) 
 
 [Ensemble Methods for Geothermal Model Calibration](https://alexgdebeer.github.io/assets/talks/nzgw23.pdf) \
