@@ -17,7 +17,7 @@ title: Research
 
 ## Talks
 [Ensemble Methods for Geophysical Inverse Problems and Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/joint24.pdf) \
-Joint Meeting of the NZMS, AustMS and AMS (2024) \
+Joint Meeting of the NZMS, AustMS and AMS, Auckland, NZ (2024) \
 SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024) 
 
 [Ensemble Methods for Geothermal Model Calibration](https://alexgdebeer.github.io/assets/talks/nzgw23.pdf) \
