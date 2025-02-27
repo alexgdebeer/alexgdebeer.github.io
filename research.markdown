@@ -3,15 +3,17 @@ layout: page
 title: Research
 ---
 
-## Preprints
+## Publications
 
-[Ensemble Kalman Inversion for Geothermal Reservoir Modelling](https://arxiv.org/abs/2410.09017) \
+[Ensemble Kalman Inversion for Geothermal Reservoir Modelling](https://doi.org/10.1093/gji/ggaf060) \
 **A&nbsp;de&nbsp;Beer**, EK&nbsp;Bjarkason, M&nbsp;Gravatt, R&nbsp;Nicholson, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren \
-[Preprint](https://arxiv.org/abs/2410.09017), [Code](https://github.com/alexgdebeer/GeothermalEnsembleMethods)
+Geophysical Journal International **241**, 580--605 (2025) \
+[DOI](https://doi.org/10.1093/gji/ggaf060), [Preprint](https://arxiv.org/abs/2410.09017), [Code](https://github.com/alexgdebeer/GeothermalEnsembleMethods)
 
-[Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://arxiv.org/abs/2407.15401) \
+[Data Space Inversion for Efficient Predictions and Uncertainty Quantification for Geothermal Models](https://doi.org/10.1016/j.cageo.2025.105882) \
 **A&nbsp;de&nbsp;Beer**, A&nbsp;Power, D&nbsp;Wong, K&nbsp;Dekkers, M&nbsp;Gravatt, EK&nbsp;Bjarkason, JP&nbsp;O'Sullivan, MJ&nbsp;O'Sullivan, OJ&nbsp;Maclaren, R&nbsp;Nicholson \
-[Preprint](https://arxiv.org/abs/2407.15401), [Code](https://github.com/alexgdebeer/GeothermalDSI)
+Computers & Geosciences **197**, 105882 (2025) \
+[DOI](https://doi.org/10.1016/j.cageo.2025.105882), [Preprint](https://arxiv.org/abs/2407.15401), [Code](https://github.com/alexgdebeer/GeothermalDSI)
 
 <br>
 
