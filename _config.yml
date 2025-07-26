@@ -14,8 +14,8 @@ googlescholar_url: https://scholar.google.com/citations?user=BRtTbsEAAAAJ&hl=en
 plugins:
   - jekyll-feed
 #   - jekyll-seo-tag
-kramdown:
-  math_engine: katex
+# kramdown:
+#   math_engine: katex
 
 # Exclude from processing.
 # The following items will not be processed, by default.

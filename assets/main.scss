@@ -39,8 +39,8 @@
   font-display: swap;
 }
 
-$base-font-family: "et-book", sans-serif;
-$base-font-size:   13pt;
+$base-font-family: -apple-system, Helvetica, arial, sans-serif; // "et-book", sans-serif;
+$base-font-size:   12pt;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.25;
@@ -55,9 +55,9 @@ $grey-color:       $text-color;
 $grey-color-light: lighten($grey-color, 25%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$content-width:    850px;
-$on-palm:          850px !default;
-$on-laptop:        850px !default;
+$content-width:    825px;
+$on-palm:          825px !default;
+$on-laptop:        825px !default;
 
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
