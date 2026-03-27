@@ -18,6 +18,10 @@ title: Research
 <br>
 
 ## Talks
+
+[Rare Event Estimation Using Tensor Trains and Large Deviation Theory](https://alexgdebeer.github.io/assets/talks/uq26.pdf) \
+SIAM Conference on Uncertainty Quantification, Minneapolis, Minnesota (2026)
+
 [Ensemble Methods for Geophysical Inverse Problems and Optimal Experimental Design](https://alexgdebeer.github.io/assets/talks/joint24.pdf) \
 Joint Meeting of the NZMS, AustMS and AMS, Auckland, NZ (2024) \
 SIAM Conference on Uncertainty Quantification, Trieste, Italy (2024) 
